@@ -1,2 +1,1 @@
-# Hack-For-Hope-Describify
-Decribify hackathon
+# hack-for-hope
